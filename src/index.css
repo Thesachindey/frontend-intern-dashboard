@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme {
+  --color-donezo-dark: #14462b;
+  --color-donezo-light: #2a6a45;
+}
+
+body {
+  background-color: #F8FAFC; 
+}
